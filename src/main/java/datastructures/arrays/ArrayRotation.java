@@ -3,9 +3,10 @@ package datastructures.arrays;
 public class ArrayRotation {
 
     public static final int CONSTANT_VALUE_ZERO = 0;
+    public static final int CONSTANT_VALUE_TWO = 2;
 
     public static void main(String[] args) {
-        rotateByTwoPositionsToTheLeft(new int[]{1, 2, 3, 4, 5, 6}, 2);
+        rotateByTwoPositionsToTheLeft(new int[]{1, 2, 3, 4, 5, 6}, CONSTANT_VALUE_TWO);
     }
 
     /**
@@ -32,7 +33,7 @@ public class ArrayRotation {
      */
     private static void printSolution(int[] arrayRequired) {
         for (int valueAtEachIndexOfArrayRequire : arrayRequired) {
-            System.out.print(valueAtEachIndexOfArrayRequire);
+            System.out.print(valueAtEachIndexOfArrayRequire + " ");
         }
     }
 }

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="$PROJECT_DIR$/src/main/java/datastructures/arrays/ArrangementRearrangement.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/datastructures/arrays/ArrayRotation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../NIneleapsallstuff/Ford Project/FSM-m-ticketing/src/main/java/com/fsm/mticketing/services/impl/MAutoRIdeLaterScheduler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../NIneleapsallstuff/Ford Project/FSM-m-ticketing/src/main/java/com/fsm/mticketing/services/impl/MAutoTripFareService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../NIneleapsallstuff/Ford Project/FSM-m-ticketing/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
