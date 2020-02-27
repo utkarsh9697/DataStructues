@@ -4,6 +4,7 @@
     <list default="true" id="5cde81f8-9328-42e9-91e5-f2569d37e65c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/datastructures/arrays/RangeQueries.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/datastructures/arrays/RangeQueries.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +47,7 @@
       <recent name="datastructures.arrays.OrderStatistics" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.OrderStatistics">
+  <component name="RunManager" selected="Application.RangeQueries">
     <configuration name="ArrangementRearrangement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="datastructures.arrays.ArrangementRearrangement" />
       <module name="DataStructures.main" />
@@ -69,6 +70,19 @@
     </configuration>
     <configuration name="OrderStatistics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="datastructures.arrays.OrderStatistics" />
+      <module name="DataStructures.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="datastructures.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RangeQueries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructures.arrays.RangeQueries" />
       <module name="DataStructures.main" />
       <extension name="coverage">
         <pattern>
@@ -129,6 +143,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RangeQueries" />
         <item itemvalue="Application.OrderStatistics" />
         <item itemvalue="Application.ArrangementRearrangement" />
         <item itemvalue="Application.ArrayRotation" />
@@ -169,25 +184,25 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="373" y="288" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1582227416623" />
-    <state width="1874" height="452" key="GridCell.Tab.0.bottom" timestamp="1582719994282">
+    <state width="1874" height="211" key="GridCell.Tab.0.bottom" timestamp="1582807361756">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="452" key="GridCell.Tab.0.bottom/67.27.1299.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1582719994282" />
+    <state width="1874" height="211" key="GridCell.Tab.0.bottom/67.27.1299.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1582807361756" />
     <state width="1253" height="81" key="GridCell.Tab.0.bottom/67.27.1299.741/1366.0.1920.1080@67.27.1299.741" timestamp="1582642216290" />
-    <state width="1874" height="452" key="GridCell.Tab.0.center" timestamp="1582719994281">
+    <state width="1874" height="211" key="GridCell.Tab.0.center" timestamp="1582807361755">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="452" key="GridCell.Tab.0.center/67.27.1299.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1582719994281" />
+    <state width="1874" height="211" key="GridCell.Tab.0.center/67.27.1299.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1582807361755" />
     <state width="1253" height="81" key="GridCell.Tab.0.center/67.27.1299.741/1366.0.1920.1080@67.27.1299.741" timestamp="1582642216290" />
-    <state width="1874" height="452" key="GridCell.Tab.0.left" timestamp="1582719994281">
+    <state width="1874" height="211" key="GridCell.Tab.0.left" timestamp="1582807361755">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="452" key="GridCell.Tab.0.left/67.27.1299.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1582719994281" />
+    <state width="1874" height="211" key="GridCell.Tab.0.left/67.27.1299.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1582807361755" />
     <state width="1253" height="81" key="GridCell.Tab.0.left/67.27.1299.741/1366.0.1920.1080@67.27.1299.741" timestamp="1582642216289" />
-    <state width="1874" height="452" key="GridCell.Tab.0.right" timestamp="1582719994282">
+    <state width="1874" height="211" key="GridCell.Tab.0.right" timestamp="1582807361755">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="452" key="GridCell.Tab.0.right/67.27.1299.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1582719994282" />
+    <state width="1874" height="211" key="GridCell.Tab.0.right/67.27.1299.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1582807361755" />
     <state width="1253" height="81" key="GridCell.Tab.0.right/67.27.1299.741/1366.0.1920.1080@67.27.1299.741" timestamp="1582642216290" />
     <state width="1253" height="81" key="GridCell.Tab.1.bottom" timestamp="1582642216291">
       <screen x="67" y="27" width="1299" height="741" />
@@ -221,11 +236,11 @@
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
     <state x="1386" y="76" width="798" height="499" maximized="true" key="dock-window-2/67.27.1299.741/1366.0.1920.1080@67.27.1299.741" timestamp="1582719129014" />
-    <state x="1947" y="175" width="524" height="516" key="extract.method.dialog" timestamp="1582720432503">
+    <state x="1947" y="175" width="524" height="516" key="extract.method.dialog" timestamp="1582807510873">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
     <state x="413" y="118" key="extract.method.dialog/0.0.1366.728@0.0.1366.728" timestamp="1582228181722" />
-    <state x="1947" y="175" key="extract.method.dialog/67.27.1299.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1582720432503" />
+    <state x="1947" y="175" width="524" height="516" key="extract.method.dialog/67.27.1299.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1582807510873" />
     <state x="460" y="147" width="524" height="516" key="extract.method.dialog/67.27.1299.741/1366.0.1920.1080@67.27.1299.741" timestamp="1582640574881" />
     <state x="354" y="0" width="736" height="728" key="find.popup" timestamp="1582225144495">
       <screen x="0" y="0" width="1366" height="728" />

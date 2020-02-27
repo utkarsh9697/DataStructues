@@ -18,6 +18,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/datastructures/arrays/RangeQueries.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../NIneleapsallstuff/Ford Project/FSM-m-ticketing/src/main/java/com/fsm/mticketing/services/impl/MAutoRIdeLaterScheduler.java">
           <value>
             <set />
@@ -29,6 +34,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../NIneleapsallstuff/Ford Project/FSM-m-ticketing/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../NIneleapsallstuff/Ford Project/FSM-m-ticketing/src/test/java/com/fsm/mticketing/dto/mauto/mautoresponse/livelocation/MAutoLiveLocationLogTest.java">
           <value>
             <set />
           </value>
