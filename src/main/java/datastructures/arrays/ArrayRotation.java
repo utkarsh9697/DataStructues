@@ -12,6 +12,11 @@ public class ArrayRotation {
     /**
      * This method is used to rotate the array by two position to the left. Array value have been hard coded for
      * implementation but solution can be extended for dynamic solutions.
+     * Input : 1, 2, 3, 4, 5, 6            // Sample input example
+     * Required Output : 3 4 5 6 1 2      // Sample result example
+     *
+     * @param arrayToBeRotated : It contains the input array to be rotated
+     * @param displacementUnit : Displacement unit by which array is to be rotated
      */
     private static void rotateByTwoPositionsToTheLeft(int[] arrayToBeRotated, int displacementUnit) {
         int[] arrayRequired = new int[arrayToBeRotated.length];

@@ -3,6 +3,11 @@
   <component name="issues">
     <option name="index">
       <map>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/datastructures/arrays/ArrangementRearrangement.java">
           <value>
             <set />
@@ -13,12 +18,27 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/datastructures/arrays/MaxContiguousArraySum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/datastructures/arrays/OrderStatistics.java">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/datastructures/arrays/RangeQueries.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/datastructures/arrays/Sorting.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../NIneleapsallstuff/Ford Project/FSM-m-ticketing/src/main/java/com/fsm/mticketing/dto/QrCodeDto.java">
           <value>
             <set />
           </value>
@@ -34,6 +54,16 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../NIneleapsallstuff/Ford Project/FSM-m-ticketing/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../NIneleapsallstuff/Ford Project/FSM-m-ticketing/src/test/java/com/fsm/mticketing/controllers/MAutoBookingObjectControllerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../NIneleapsallstuff/Ford Project/FSM-m-ticketing/src/test/java/com/fsm/mticketing/controllers/MAutoReconciliationControllerTest.java">
           <value>
             <set />
           </value>

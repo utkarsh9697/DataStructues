@@ -23,6 +23,11 @@ public class RangeQueries {
     /**
      * This method is used to find the sum of every query range in data array from the provided query array.
      * Array values have been hard coded for implementation but solution can be extended for dynamic solutions.
+     * Input : dataValues=1, 1, 2, 1, 3, 4, 5, 2, 8, rangeToFindSumBetween={0, 4},{1, 3},{2, 4}  // Sample input example
+     * Required Output : 8, 4, 6     // Sample result example
+     *
+     * @param inputDataArray  : It contains the input array with data values
+     * @param inputQueryArray : It contains the query bounds for finding sum from input array
      */
     private static void printSumOfValuesInQueryRange(int[] inputDataArray, int[][] inputQueryArray) {
         for (int i = CONSTANT_VALUE_ZERO; i < inputQueryArray.length; i++) {

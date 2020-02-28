@@ -2,14 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5cde81f8-9328-42e9-91e5-f2569d37e65c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/datastructures/arrays/ArrangementRearrangement.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/datastructures/arrays/ArrangementRearrangement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/datastructures/arrays/ArrayRotation.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/datastructures/arrays/ArrayRotation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/datastructures/arrays/OrderStatistics.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/datastructures/arrays/OrderStatistics.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/datastructures/arrays/RangeQueries.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/datastructures/arrays/RangeQueries.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/datastructures/arrays/ArrangementRearrangement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/datastructures/arrays/ArrangementRearrangement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/datastructures/arrays/ArrayRotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/datastructures/arrays/ArrayRotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/datastructures/arrays/OrderStatistics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/datastructures/arrays/OrderStatistics.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/datastructures/arrays/RangeQueries.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/datastructures/arrays/RangeQueries.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="15" />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -36,6 +54,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -43,11 +62,16 @@
   </component>
   <component name="RecentsManager">
     <key name="IntroduceConstantDialog.RECENTS_KEY">
+      <recent name="datastructures.arrays.Sorting" />
+      <recent name="datastructures.arrays.MaxContiguousArraySum" />
       <recent name="datastructures.arrays.ArrayRotation" />
       <recent name="datastructures.arrays.OrderStatistics" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.RangeQueries">
+  <component name="RunManager" selected="Application.Sorting">
     <configuration name="ArrangementRearrangement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="datastructures.arrays.ArrangementRearrangement" />
       <module name="DataStructures.main" />
@@ -61,9 +85,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayRotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datastructures.arrays.ArrayRotation" />
+    <configuration name="MaxContiguousArraySum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructures.arrays.MaxContiguousArraySum" />
       <module name="DataStructures.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="datastructures.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -83,6 +113,19 @@
     </configuration>
     <configuration name="RangeQueries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="datastructures.arrays.RangeQueries" />
+      <module name="DataStructures.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="datastructures.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructures.arrays.Sorting" />
       <module name="DataStructures.main" />
       <extension name="coverage">
         <pattern>
@@ -143,10 +186,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Sorting" />
         <item itemvalue="Application.RangeQueries" />
         <item itemvalue="Application.OrderStatistics" />
         <item itemvalue="Application.ArrangementRearrangement" />
-        <item itemvalue="Application.ArrayRotation" />
+        <item itemvalue="Application.MaxContiguousArraySum" />
       </list>
     </recent_temporary>
   </component>
@@ -184,25 +228,25 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="373" y="288" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1582227416623" />
-    <state width="1874" height="211" key="GridCell.Tab.0.bottom" timestamp="1582807361756">
+    <state width="1874" height="211" key="GridCell.Tab.0.bottom" timestamp="1582902783648">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="211" key="GridCell.Tab.0.bottom/67.27.1299.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1582807361756" />
+    <state width="1874" height="211" key="GridCell.Tab.0.bottom/67.27.1299.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1582902783648" />
     <state width="1253" height="81" key="GridCell.Tab.0.bottom/67.27.1299.741/1366.0.1920.1080@67.27.1299.741" timestamp="1582642216290" />
-    <state width="1874" height="211" key="GridCell.Tab.0.center" timestamp="1582807361755">
+    <state width="1874" height="211" key="GridCell.Tab.0.center" timestamp="1582902783648">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="211" key="GridCell.Tab.0.center/67.27.1299.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1582807361755" />
+    <state width="1874" height="211" key="GridCell.Tab.0.center/67.27.1299.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1582902783648" />
     <state width="1253" height="81" key="GridCell.Tab.0.center/67.27.1299.741/1366.0.1920.1080@67.27.1299.741" timestamp="1582642216290" />
-    <state width="1874" height="211" key="GridCell.Tab.0.left" timestamp="1582807361755">
+    <state width="1874" height="211" key="GridCell.Tab.0.left" timestamp="1582902783648">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="211" key="GridCell.Tab.0.left/67.27.1299.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1582807361755" />
+    <state width="1874" height="211" key="GridCell.Tab.0.left/67.27.1299.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1582902783648" />
     <state width="1253" height="81" key="GridCell.Tab.0.left/67.27.1299.741/1366.0.1920.1080@67.27.1299.741" timestamp="1582642216289" />
-    <state width="1874" height="211" key="GridCell.Tab.0.right" timestamp="1582807361755">
+    <state width="1874" height="211" key="GridCell.Tab.0.right" timestamp="1582902783648">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="211" key="GridCell.Tab.0.right/67.27.1299.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1582807361755" />
+    <state width="1874" height="211" key="GridCell.Tab.0.right/67.27.1299.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1582902783648" />
     <state width="1253" height="81" key="GridCell.Tab.0.right/67.27.1299.741/1366.0.1920.1080@67.27.1299.741" timestamp="1582642216290" />
     <state width="1253" height="81" key="GridCell.Tab.1.bottom" timestamp="1582642216291">
       <screen x="67" y="27" width="1299" height="741" />
@@ -236,11 +280,11 @@
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
     <state x="1386" y="76" width="798" height="499" maximized="true" key="dock-window-2/67.27.1299.741/1366.0.1920.1080@67.27.1299.741" timestamp="1582719129014" />
-    <state x="1947" y="175" width="524" height="516" key="extract.method.dialog" timestamp="1582807510873">
+    <state x="1947" y="175" width="524" height="516" key="extract.method.dialog" timestamp="1582899178060">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
     <state x="413" y="118" key="extract.method.dialog/0.0.1366.728@0.0.1366.728" timestamp="1582228181722" />
-    <state x="1947" y="175" width="524" height="516" key="extract.method.dialog/67.27.1299.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1582807510873" />
+    <state x="1947" y="175" width="524" height="516" key="extract.method.dialog/67.27.1299.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1582899178060" />
     <state x="460" y="147" width="524" height="516" key="extract.method.dialog/67.27.1299.741/1366.0.1920.1080@67.27.1299.741" timestamp="1582640574881" />
     <state x="354" y="0" width="736" height="728" key="find.popup" timestamp="1582225144495">
       <screen x="0" y="0" width="1366" height="728" />
@@ -252,6 +296,9 @@
     <state x="1989" y="237" width="672" height="678" key="search.everywhere.popup/67.27.1299.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1582720743262" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DataStructures$MaxContiguousArraySum.ic" NAME="MaxContiguousArraySum Coverage Results" MODIFIED="1582902248176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>datastructures.arrays.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/DataStructures$ArrangementRearrangement.ic" NAME="ArrangementRearrangement Coverage Results" MODIFIED="1582639525224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>datastructures.arrays.*</FILTER>
     </SUITE>
