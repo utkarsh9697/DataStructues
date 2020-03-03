@@ -9,7 +9,8 @@ public class Stacks {
     }
 
     /**
-     * This method is used to show stack implementation for push, pop, peek ,search and empty methods.
+     * This method is used to show stack implementation for push, pop, peek ,search and empty methods implementation
+     * of stacks.
      */
     private static void implementStacks() {
         Stack<Integer> stack = new Stack<>();
