@@ -29,5 +29,3 @@ application.properties
 ### logs ###
 *.log
 *.sw
-
-./kube-config
