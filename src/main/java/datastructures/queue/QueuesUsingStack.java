@@ -6,8 +6,6 @@ public class QueuesUsingStack {
 
     public static void main(String[] args) {
         implementQueuesUsingStacks();
-
-
     }
 
     /**
